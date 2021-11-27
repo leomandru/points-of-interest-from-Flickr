@@ -1,0 +1,2 @@
+# points-of-interest-from-Flickr
+This paper analyzes geospatial data from Flickr. It aims to extract points of interest to improve the public transport system of Rennes, France. Firstly, we cluster the data based on the coordinates only. Then, we use a text processing pipeline to extract the bag of words from the dataset. In doing so, we cluster the data again based on both coordinates and captions and compare both models. Lastly, we characterize the points by searching for frequent itemsets within the captions.
