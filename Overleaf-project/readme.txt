@@ -5,15 +5,16 @@ Lecture Notes in Computer Science (LNCS) of Springer-Verlag.
 
 It consists of the following files:
 
-  readme.txt         this file
+  Geo data assignement.tex  the actual project
 
-  history.txt        the version history of the package
+  readme.txt                this file
 
-  llncs.cls          the LaTeX2e document class
+  history.txt               the version history of the package
 
-  samplepaper.tex    a sample paper
-  fig1.eps           a figure used in the sample paper
+  llncs.cls                 the LaTeX2e document class
 
-  llncsdoc.pdf       the documentation of the class (PDF version)
+  samplepaper.tex           a sample paper
 
-  splncs04.bst       current LNCS BibTeX style with alphabetic sorting
+  llncsdoc.pdf              the documentation of the class (PDF version)
+
+  splncs04.bst              current LNCS BibTeX style with alphabetic sorting
